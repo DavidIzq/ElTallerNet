@@ -1,0 +1,5 @@
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio9\bin\Debug\Ejercicio9.exe
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio9\bin\Debug\Ejercicio9.pdb
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio9\obj\Debug\Ejercicio9.csprojResolveAssemblyReference.cache
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio9\obj\Debug\Ejercicio9.exe
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio9\obj\Debug\Ejercicio9.pdb

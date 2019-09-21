@@ -1,0 +1,4 @@
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\miguel\Documents\SharpDevelop Projects\EjerciciosNet\Ejercicio7\obj\Debug\Ejercicio7.pdb

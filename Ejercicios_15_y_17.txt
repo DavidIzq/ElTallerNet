@@ -1,0 +1,7 @@
+15)
+A)EL ciclo no tiene variable que lo controle.
+B)hay un (;) despues de la condicion.
+17)
+Primero que todo si miramos el codigo no estan declaradas las 
+variables asi que ese codigo no va a correr, y si ponemos las 
+variables de tipo int el valor final de sum es 55.
